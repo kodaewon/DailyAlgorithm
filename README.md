@@ -1,7 +1,7 @@
 # DailyAlgorithm
 매일 문제가 올라옵니다.
 
-| 날짜 | 쉬운 문제 링크 | 출제자 | 어려운 문제 링크 | 출제자 | 비고 |
+| 날짜 | 문제1 링크 | 출제자 | 문제2 링크 | 출제자 | 비고 |
 | :-: | :-: | :-: | :-: | :-: | :-: |
 | [이전](old.md) |[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|[-](old.md)|
 |2019.11.21|[문제](https://programmers.co.kr/learn/courses/30/lessons/12904)| [도미닉] |[문제](https://programmers.co.kr/learn/courses/30/lessons/42840?language=swift)| [라이노] | - |
@@ -45,7 +45,10 @@
 |2019.12.29|[문제](https://programmers.co.kr/learn/courses/30/lessons/12915)|[도미닉]|[문제](https://www.acmicpc.net/problem/18221)|[라이노]|-|
 |2019.12.30|[문제](https://programmers.co.kr/learn/courses/30/lessons/12916)|[도미닉]|[문제](https://www.acmicpc.net/problem/18222)|[라이노]|-|
 |2019.12.31|[문제](https://programmers.co.kr/learn/courses/30/lessons/12917)|[도미닉]|-|-|-|
-|2020.01.01|[문제](https://www.acmicpc.net/problem/1623)|[도미닉]||[라이노]|-|
+|2020.01.01|[문제](https://www.acmicpc.net/problem/1623)|[도미닉]|-|-|-|
+|2020.01.02|[문제](https://programmers.co.kr/learn/courses/30/lessons/12918)|[도미닉]|[문제](https://www.acmicpc.net/problem/1009)|[라이노]|-|
+|2020.01.03|[문제](https://programmers.co.kr/learn/courses/30/lessons/12919)|[도미닉]|[문제](https://www.acmicpc.net/problem/1012)|[라이노]|-|
+
 
 
 [라이노]: https://github.com/JCSooHwanCho
