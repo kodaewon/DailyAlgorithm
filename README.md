@@ -53,7 +53,9 @@
 |2020.01.06|[문제](https://programmers.co.kr/learn/courses/30/lessons/12926)|[도미닉]|-|-|-|
 |2020.01.07|[문제](https://programmers.co.kr/learn/courses/30/lessons/12928)|[도미닉]|-|-|-|
 |2020.01.08|[문제](https://programmers.co.kr/learn/courses/30/lessons/12930)|[도미닉]|[문제](https://www.acmicpc.net/problem/2468)|[민멍구]|-|
-|2020.01.09|||[문제](https://leetcode.com/problems/word-pattern/)|[민멍구]|-|
+|2020.01.09|-|-|[문제](https://leetcode.com/problems/word-pattern/)|[민멍구]|-|
+|2020.01.10|[문제](https://programmers.co.kr/learn/courses/30/lessons/12931)|[도미닉]|||-|
+|2020.01.11|[문제](https://programmers.co.kr/learn/courses/30/lessons/12932)|[도미닉]|[문제](https://programmers.co.kr/learn/courses/30/lessons/12979)|[민멍구]|-|
 
 
 [라이노]: https://github.com/JCSooHwanCho
